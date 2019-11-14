@@ -68,7 +68,7 @@ $ lspci | grep -i nvidia
   
     ```shell_session
     $ conda activate your_envs_name
-    $ conda install tenorflow-gpu
+    $ conda install tensorflow-gpu
     ```
   - After installation, you can check the already installed packages by using:
     ```shell_session
